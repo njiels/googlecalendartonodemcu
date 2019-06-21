@@ -1,3 +1,5 @@
+>Please note that I was *not* able to fully make this work, nevertheless I hope that at least some points in this tutorial can be of use.
+
 # Google Agenda to Node MCU
 
 This manual will show you how to connect to your Google Calendar to your NodeMCU and make a LED light up when an event is nearby. I did not succeed, the reason why is written in the conclusion. For this manual I used:
